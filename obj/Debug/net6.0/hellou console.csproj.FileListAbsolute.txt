@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\hellou console\bin\Debug\net6.0\hellou console.exe
+C:\Users\Денис\Desktop\hellou console\bin\Debug\net6.0\hellou console.deps.json
+C:\Users\Денис\Desktop\hellou console\bin\Debug\net6.0\hellou console.runtimeconfig.json
+C:\Users\Денис\Desktop\hellou console\bin\Debug\net6.0\hellou console.dll
+C:\Users\Денис\Desktop\hellou console\bin\Debug\net6.0\hellou console.pdb
+C:\Users\Денис\Desktop\hellou console\obj\Debug\net6.0\hellou console.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\hellou console\obj\Debug\net6.0\hellou console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\hellou console\obj\Debug\net6.0\hellou console.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\hellou console\obj\Debug\net6.0\hellou console.AssemblyInfo.cs
+C:\Users\Денис\Desktop\hellou console\obj\Debug\net6.0\hellou console.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\hellou console\obj\Debug\net6.0\hellou console.dll
+C:\Users\Денис\Desktop\hellou console\obj\Debug\net6.0\refint\hellou console.dll
+C:\Users\Денис\Desktop\hellou console\obj\Debug\net6.0\hellou console.pdb
+C:\Users\Денис\Desktop\hellou console\obj\Debug\net6.0\hellou console.genruntimeconfig.cache
+C:\Users\Денис\Desktop\hellou console\obj\Debug\net6.0\ref\hellou console.dll
